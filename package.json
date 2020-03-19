@@ -30,5 +30,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint-plugin-flowtype": "^3.13.0",
+    "node-sass": "^4.13.1",
+    "sass": "^1.26.3",
+    "tachyons": "^4.11.1",
+    "typescript": "^3.8.3"
   }
 }
